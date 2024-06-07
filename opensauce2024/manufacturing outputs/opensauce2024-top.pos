@@ -1,0 +1,61 @@
+### Footprint positions - created on 2024-05-25T18:51:38-0400 ###
+### Printed by KiCad version 8.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                         PosX       PosY       Rot  Side
+BT1       Battery_Cell   cr2032                      -16.2125    10.0000   90.0000  top
+BT2       Battery_Cell   cr2032                       15.7875    10.0000  -90.0000  top
+C1        1uf            C_0603_1608Metric             6.7875    20.7500   90.0000  top
+C2        1uf            C_0603_1608Metric            11.7875    20.7500   90.0000  top
+C3        1uf            C_0603_1608Metric            -8.2125    19.0000  -90.0000  top
+C4        .1uf           C_0603_1608Metric            12.2875    35.5000  -90.0000  top
+C5        .1uf           C_0603_1608Metric            23.7875    31.5000  -90.0000  top
+C6        .1uf           C_0603_1608Metric            -4.2125    20.0000  180.0000  top
+C8        .1uf           C_0603_1608Metric            12.2875    27.0000   90.0000  top
+C9        .1uf           C_0603_1608Metric            11.2875    40.0000  180.0000  top
+D1        LED            LED_0603_1608Metric           0.0000    72.5000  180.0000  top
+D2        LED            LED_0603_1608Metric           0.0000    70.1613  180.0000  top
+D3        LED            LED_0603_1608Metric           0.0000    67.8226  180.0000  top
+D4        LED            LED_0603_1608Metric           0.0000    65.4839  180.0000  top
+D5        LED            LED_0603_1608Metric           0.0000    63.1452  180.0000  top
+D6        LED            LED_0603_1608Metric           0.0000    60.8065  180.0000  top
+D7        LED            LED_0603_1608Metric           0.0000    58.4677  180.0000  top
+D8        LED            LED_0603_1608Metric           0.0000    56.1290  180.0000  top
+D9        LED            LED_0603_1608Metric           0.0000    53.7903  180.0000  top
+D10       LED            LED_0603_1608Metric           0.0000    51.4516  180.0000  top
+D11       LED            LED_0603_1608Metric           0.0000    49.1129  180.0000  top
+D12       LED            LED_0603_1608Metric           0.0000    46.7742  180.0000  top
+D13       LED            LED_0603_1608Metric           0.0000    44.4355  180.0000  top
+D14       LED            LED_0603_1608Metric           0.0000    42.0968  180.0000  top
+D15       LED            LED_0603_1608Metric           0.0000    39.7581  180.0000  top
+D16       LED            LED_0603_1608Metric           0.0000    37.4194  180.0000  top
+D17       LED            LED_0603_1608Metric           0.0000    35.0807  180.0000  top
+D18       LED            LED_0603_1608Metric           0.0000    32.7419  180.0000  top
+D19       LED            LED_0603_1608Metric           0.0000    30.4032  180.0000  top
+D20       LED            LED_0603_1608Metric           0.0000    28.0645  180.0000  top
+D21       LED            LED_0603_1608Metric           0.0000    25.7258  180.0000  top
+D22       LED            LED_0603_1608Metric           0.0000    23.3871  180.0000  top
+D23       LED            LED_0603_1608Metric           0.0000    21.0484  180.0000  top
+D24       LED            LED_0603_1608Metric           0.0000    18.7097  180.0000  top
+D25       LED            LED_0603_1608Metric           0.0000    16.3710  180.0000  top
+D26       LED            LED_0603_1608Metric           0.0000    14.0323  180.0000  top
+D27       LED            LED_0603_1608Metric           0.0000    11.6936  180.0000  top
+D28       LED            LED_0603_1608Metric           0.0000     9.3549  180.0000  top
+D29       LED            LED_0603_1608Metric           0.0000     7.0161  180.0000  top
+D30       LED            LED_0603_1608Metric           0.0000     4.6774  180.0000  top
+D31       LED            LED_0603_1608Metric           0.0000     2.3387  180.0000  top
+D32       LED            LED_0603_1608Metric           0.0000     0.0000  180.0000  top
+Q1        Q_PMOS_GSD     SOT-23                       -4.2125    14.0000   90.0000  top
+Q2        Q_NMOS_GSD     SOT-23                       -4.2125     6.0000   90.0000  top
+R1        10k            R_0603_1608Metric            12.2875    24.0000    0.0000  top
+R2        10k            R_0603_1608Metric            -4.2125    17.8950  180.0000  top
+R3        1k             R_0603_1608Metric            -4.2125    10.0000  -90.0000  top
+R4        10k            R_0603_1608Metric            12.2875    32.5000    0.0000  top
+R5        10k            R_0603_1608Metric            -4.2125     2.4000    0.0000  top
+SW1       SW_Push        SW_Push_1P1T_XKB_TS-1187A    18.2875    26.5000  180.0000  top
+U1        STM32C031G6Ux  QFN-28_4x4mm_P0.5mm          16.7875    35.0000    0.0000  top
+U2        AP7370-33WW-7  SOT25                         9.2875    21.0000   90.0000  top
+U3        TLC59283RGER   RGE24_2P1X2P1_TEX             8.0375    35.6063  -90.0000  top
+U4        MC3419         LGA-12_2x2mm_P0.5mm          21.2875    31.5000   90.0000  top
+U5        TLC59283RGER   RGE24_2P1X2P1_TEX             8.0375    26.8937  -90.0000  top
+## End
