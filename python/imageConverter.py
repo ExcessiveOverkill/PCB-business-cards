@@ -8,13 +8,13 @@ import os
 
 
 ENABLE_ANGLE_STABILIZATION_MODE = False
-RANDOM_CHANCE = 10  # max is 0x3FFF
+RANDOM_CHANCE = 1  # max is 0x3FFF
 RANDOM_POINTS = 1
 
 
 # number of side/side movements to display each frame for
 ANIMATION_FRAME_DISPLAY_CYCLES = [1, 1]   # normal and secret frames, how many times to display a frame when it is loaded from an animation
-SINGLE_FRAME_DISPLAY_CYCLES = [16, 4]   # normal and secret frames, how many times to display a frame when it is loaded along
+SINGLE_FRAME_DISPLAY_CYCLES = [16, 2]   # normal and secret frames, how many times to display a frame when it is loaded along
 SECRET_DISPLAY_CYCLES = 1   # how many full cycles to display the secret image/animation for
 
 
