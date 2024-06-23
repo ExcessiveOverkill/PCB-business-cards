@@ -28,6 +28,9 @@ A DigiKey cart containing all of the needed components can be found [here](https
 
 Two standard CR2032 batteries are required, I used the cheap amazon ones.
 
+### Placement
+An interactive BOM can be found [here](opensauce2024/bom/ibom.html) (open in browser)
+
 ### Soldering
 These boards are NOT designed to be hand-solderable.
 
